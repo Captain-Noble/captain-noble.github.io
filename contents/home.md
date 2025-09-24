@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/Captain_Noble-github-blue?logo=github)](https://github.com/Captain-Noble)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a senior student at ShanghaiTech University.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email:  szm30w@gmail.com 
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Computer Science and Technology, China ShanghaiTech University, 2021—2026.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
